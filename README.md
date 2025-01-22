@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Matheus! 👋
 
-<!--
-**orodrigues10/orodrigues10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação:** Ciência da computação.
+💻 **Atualmente trabalhando com:** Analytics e mídia
+📫 **Entre em contato:** orodriguesoficial@gmail.com  
+✨ **Hobbies:** moto, futebol, box, música e liros.
 
-Here are some ideas to get you started:
+Habilidades 👩‍💻
+🐍 Python.
+🗄 SQL.
+💻 SAS.
+🧮 Power BI.
+🔮 Aprendizado de máquina.
+📊 Visualização de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Encontre-me ao redor do mundo 🌎
+Linkedin: www.linkedin.com/in/matheus-rodrigues-2b8639206
+
