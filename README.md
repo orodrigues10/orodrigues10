@@ -9,6 +9,7 @@
 ✨ **Hobbies:** moto, futebol, box, música e liros.
 
 Habilidades 👩‍💻
+
 🐍 Python.
 
 🗄 SQL.
@@ -22,5 +23,6 @@ Habilidades 👩‍💻
 📊 Visualização de dados
 
 Encontre-me ao redor do mundo 🌎
+
 Linkedin: www.linkedin.com/in/matheus-rodrigues-2b8639206
 
